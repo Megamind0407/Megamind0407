@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aryan Gaikwad</h1>
-<h3 align="center">Currently pursuing B.E Computer Science 🧑‍💻</h3>
+<h1 align="left">Hi 👋, I'm Aryan Gaikwad</h1>
+<h3 align="left">🎓Currently pursuing B.E Computer Science 🧑‍💻</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/in/aryan-gaikwad**
-
-- ⚡ Fun fact **We are about to die 💀**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+- ✨ I'm recently working on MERN stack Development
+- 🏢 Upgrading my skills 
+- 📫 How to reach me : **https://www.linkedin.com/in/aryan-gaikwad**
+- ⚡ Fun fact : **We are about to die 💀**
+<img align="right" alt="Coding" width="400" top="20%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan29093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan29093" height="30" width="40" /></a>
