@@ -5,16 +5,8 @@
 - 🏢 Upgrading my skills 
 - 📫 How to reach me : **https://www.linkedin.com/in/aryan-gaikwad**
 - ⚡ Fun fact : **We are about to die 💀**
-<style>
-  .img{
-    position: relative;
-    top: -16px;
-    right: -706px;
-  }
-</style>
-<div class = "img">
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-</div>
+
+<img align="right" alt="Coding" width="300" top:0px src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan29093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan29093" height="30" width="40" /></a>
@@ -24,8 +16,18 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megamind0407&show_icons=true&locale=en&layout=compact" alt="megamind0407" /></p>
+<div style="clear:both;"></div>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=megamind0407&show_icons=true&locale=en" alt="megamind0407" /></p>
+<div style="float:left; margin-right:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megamind0407&show_icons=true&locale=en&layout=compact" alt="megamind0407" />
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=megamind0407&" alt="megamind0407" /></p>
+<div style="float:left; margin-right:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=megamind0407&show_icons=true&locale=en" alt="megamind0407" />
+</div>
+
+<div style="float:left;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=megamind0407&" alt="megamind0407" />
+</div>
+
+<div style="clear:both;"></div>
