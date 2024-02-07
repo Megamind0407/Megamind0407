@@ -5,7 +5,16 @@
 - 🏢 Upgrading my skills 
 - 📫 How to reach me : **https://www.linkedin.com/in/aryan-gaikwad**
 - ⚡ Fun fact : **We are about to die 💀**
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)">
+<style>
+  .img{
+    position: relative;
+    top: -16px;
+    right: -706px;
+  }
+</style>
+<div class = "img">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan29093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan29093" height="30" width="40" /></a>
