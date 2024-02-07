@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/aryan29093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan29093" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gaikwad" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@aryan_2909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aryan_2909" height="30" width="40" /></a>
 </p>
 <h3 align="left">Skills:</h3>
 
