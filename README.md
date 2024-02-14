@@ -33,3 +33,5 @@
 </div>
 
 <div style="clear:both;"></div>
+
+[![](https://visitcount.itsvg.in/api?id=Megamind0407&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
