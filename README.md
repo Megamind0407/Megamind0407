@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aryan Gaikwad</h1>
 <h3 align="left">🎓Currently pursuing B.E Computer Science 🧑‍💻</h3>
 
-- ✨ I'm recently working on MERN Stack Development
+- 🌱 I'm recently working on MERN Stack Development
 - 🏢 Upgrading my skills 
 - 📫 How to reach me : **https://www.linkedin.com/in/aryan-gaikwad**
 - ⚡ Fun fact : **We are about to die 💀**
