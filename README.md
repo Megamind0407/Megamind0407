@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aryan Gaikwad</h1>
+<h1 align="center">Hi 👋, I'm Aryan Gaikwad</h1>
 <h3 align="left">🎓Currently pursuing B.E Computer Science 🧑‍💻</h3>
 
 - 🌱 I'm recently working on MERN Stack Development
