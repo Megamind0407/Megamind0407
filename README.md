@@ -3,7 +3,7 @@
 
 - 🌱 I'm recently working on MERN Stack Development
 - 🏢 Upgrading my skills 
-- 📫 How to reach me : **target=_blank https://www.linkedin.com/in/aryan-gaikwad**
+- 📫 How to reach me : **https://www.linkedin.com/in/aryan-gaikwad**
 - ⚡ Fun fact : **We are about to die 💀**
 
 <img align="right" alt="Coding" width="300" top:0px src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">   
