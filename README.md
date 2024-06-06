@@ -5,7 +5,7 @@
 - 🏢 Upgrading my skills 
 - 📫 How to reach me : **https://www.linkedin.com/in/aryan-gaikwad**
 - ⚡ Fun fact : **We are about to die 💀**
-- 🧑‍💻 My portfolio : **https://aryan-portfolio-k218xmy5j-megamind0407s-projects.vercel.app**
+- 🧑‍💻 My portfolio : **https://aryan-portfolio-indol.vercel.app/**
 
 <img align="right" alt="Coding" width="300" top:0px src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">   
 <h3 align="left">🌐 Socials:</h3>
