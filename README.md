@@ -28,8 +28,7 @@
 <div style="float:left; margin-right:10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=megamind0407&show_icons=true&theme=dark&locale=en" alt="megamind0407" />
 </div>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Megamind0407&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Megamind0407&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <div style="float:left;">
