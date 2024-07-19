@@ -28,14 +28,18 @@
 <div style="float:left; margin-right:10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=megamind0407&show_icons=true&theme=dark&locale=en" alt="megamind0407" />
 </div>
-![](https://github-contributor-stats.vercel.app/api?username=Megamind0407&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <div style="float:left;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=megamind0407&theme=dark" alt="megamind0407" />
 </div>
+<div>
+    <img src = "!(https://github-contributor-stats.vercel.app/api?username=Megamind0407&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<div style="clear:both;"></div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Megamind0407&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+"
+</div>
+<div style="clear:both;"></div>
