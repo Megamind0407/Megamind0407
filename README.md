@@ -5,7 +5,7 @@
 - 🏢 Upgrading my skills 
 - 📫 How to reach me : **https://www.linkedin.com/in/aryan-gaikwad**
 - ⚡ Fun fact : **Code is like a humor💀**
-- 🧑‍💻 My portfolio : <a href='https://aryan-portfolio-indol.vercel.app/' target='blank'> **https://aryan-portfolio-indol.vercel.app/** </a>
+- 🧑‍💻 My portfolio : <a href='[https://aryan-portfolio-indol.vercel.app/](https://my-portfolio-livid-psi-76.vercel.app/)' target='blank'> **[https://my-portfolio-livid-psi-76.vercel.app](https://my-portfolio-livid-psi-76.vercel.app/)** </a>
 
 <img align="right" alt="Coding" width="300" top:0px src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">   
 <h3 align="left">🌐 Socials:</h3>
